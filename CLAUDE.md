@@ -299,3 +299,26 @@ This is KRA's live public website. Never show internal notes on the page: no "to
 - Live site: https://koramangalarealtorsassociation.com (HTTPS enforced; www redirects to it). Also reachable at https://koramangala-realtors.github.io/kra/
 - DNS: four GitHub Pages A records on @, and a www CNAME to koramangala-realtors.github.io. The CNAME file in the repo root holds the domain, so do not delete it
 - Domain registrar: GoDaddy, in KRA's account
+
+## Name spellings (use exactly these everywhere)
+
+These follow KRA's own ballot papers and messages:
+
+- **Kaarthik**, not "Karthik". He is the current President, and was General Secretary in 2021 and 2024.
+- **Swamy Sajjana**, not "Swamy Sajjan" (Kannada: ಸ್ವಾಮಿ ಸಜ್ಜನ).
+- **Nagaraj N G V** and **Preetham Gowda C L**, with spaces between initials.
+
+## Hidden until KRA provides content
+
+These are hidden so the live site shows only real information. Do not delete their code.
+
+- **Members section:** `<section id="members" hidden>`, with its nav link removed. Unhide it and restore the nav link when KRA sends the real members list, and delete the sample rows in `members`.
+- **Documents section:** `<section id="documents" hidden>`. Unhide it when the real PDFs are available.
+- **Trustees block:** removed from Leadership. Add it back only with real names.
+- **Footer social icons:** only WhatsApp is shown. Add Facebook, Instagram and the others only when KRA gives real links.
+
+## Other notes
+
+- **Link preview:** Open Graph tags in `<head>` use `images/home-01.jpg` as the WhatsApp/Facebook preview image. The favicon is `images/kra-logo.png`.
+- **Contact:** the address has an "Open in Google Maps" link.
+- **President's message:** still draft text written for KRA. Replace it with KRA's own words when they send them.
