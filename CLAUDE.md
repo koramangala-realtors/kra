@@ -296,5 +296,6 @@ This is KRA's live public website. Never show internal notes on the page: no "to
 
 - Repository: github.com/koramangala-realtors/kra (owned by KRA's association account)
 - Developer access: thrishulant1 (collaborator, pushes to main)
-- Live site: https://koramangala-realtors.github.io/kra/ (custom domain koramangalarealtorsassociation.com to be connected)
+- Live site: https://koramangalarealtorsassociation.com (HTTPS enforced; www redirects to it). Also reachable at https://koramangala-realtors.github.io/kra/
+- DNS: four GitHub Pages A records on @, and a www CNAME to koramangala-realtors.github.io. The CNAME file in the repo root holds the domain, so do not delete it
 - Domain registrar: GoDaddy, in KRA's account
