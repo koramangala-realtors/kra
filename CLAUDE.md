@@ -320,7 +320,7 @@ These are hidden so the live site shows only real information. Do not delete the
 ## Other notes
 
 - **Link preview:** Open Graph tags in `<head>` use `images/home-01.jpg` as the WhatsApp/Facebook preview image. The favicon is `images/kra-logo.png`.
-- **Contact:** the address has an "Open in Google Maps" link.
+- **Contact:** the address has an "Open in Google Maps" link to KRA's own pin (https://maps.app.goo.gl/gtdw6FCSZuRKV8Ns9, 12.937435, 77.619420). The same pin is in the JSON-LD data.
 - **President's message:** still draft text written for KRA. Replace it with KRA's own words when they send them.
 
 - **Contact phone:** shows only the number, as a tap-to-call link. The "Message on WhatsApp" text link was removed on request. WhatsApp is still reachable from the footer icon.
