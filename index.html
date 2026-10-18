@@ -267,7 +267,8 @@ textarea{min-height:90px;resize:vertical}
 /* contact */
 .contact{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2rem}
 .contact h3{margin:0 0 .4rem;font-size:1rem;color:var(--muted);font-weight:600}
-.contact p{margin:0;font-size:1.15rem;font-weight:600}
+.contact p{margin:0;font-size:1.15rem;font-weight:600;overflow-wrap:anywhere}
+.contact a{color:inherit}
 .todo{color:var(--red);font-weight:500;font-size:.9rem;display:block;margin-top:.2rem}
 
 .lb{position:fixed;inset:0;background:rgba(10,15,12,.92);display:none;place-items:center;z-index:50;padding:calc(env(safe-area-inset-top,0px) + 1rem) 1rem calc(env(safe-area-inset-bottom,0px) + 1rem)}
@@ -546,8 +547,8 @@ footer .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
     <div class="contact">
       <div><h3>Office address</h3><p>#823, 21st 'A' Main Road, 8th Block, Koramangala, Bengaluru 560095</p></div>
       <div><h3>Registration</h3><p>Reg. No. DRB3/SOR/646/21-22</p></div>
-      <div><h3>Phone / WhatsApp</h3><p>+91 00000 00000</p><span class="todo">Number to be added</span></div>
-      <div><h3>Email</h3><p>info@kra.in</p><span class="todo">Placeholder until domain is registered</span></div>
+      <div><h3>Phone / WhatsApp</h3><p><a href="tel:+918123074267">+91 81230 74267</a></p></div>
+      <div><h3>Email</h3><p><a href="mailto:koramangalarealtorsassociation@gmail.com">koramangalarealtorsassociation@gmail.com</a></p></div>
     </div>
   </div>
 </section>
