@@ -291,3 +291,10 @@ Always use these variables. Never hard-code new colours.
 ## Tone rule
 
 This is KRA's live public website. Never show internal notes on the page: no "to be confirmed" tags, no mentions of WhatsApp or drafts, no "matched from messages" text. Keep these notes in this file only.
+
+## Ownership and hosting
+
+- Repository: github.com/koramangala-realtors/kra (owned by KRA's association account)
+- Developer access: thrishulant1 (collaborator, pushes to main)
+- Live site: https://koramangala-realtors.github.io/kra/ (custom domain koramangalarealtorsassociation.com to be connected)
+- Domain registrar: GoDaddy, in KRA's account
