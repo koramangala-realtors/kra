@@ -324,3 +324,9 @@ These are hidden so the live site shows only real information. Do not delete the
 - **President's message:** still draft text written for KRA. Replace it with KRA's own words when they send them.
 
 - **Contact phone:** shows only the number, as a tap-to-call link. The "Message on WhatsApp" text link was removed on request. WhatsApp is still reachable from the footer icon.
+
+## Search (SEO)
+
+- **`robots.txt` and `sitemap.xml`** sit in the repo root. Update `<lastmod>` in the sitemap after big content changes.
+- **Organization data:** a JSON-LD block in `<head>` holds the name, address, phone, email and logo for Google. Keep it in sync with the Contact section.
+- **Google Search Console:** verify the domain with a TXT record in GoDaddy, then submit the sitemap there.
