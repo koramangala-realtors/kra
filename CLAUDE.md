@@ -315,7 +315,7 @@ These are hidden so the live site shows only real information. Do not delete the
 - **Members section:** `<section id="members" hidden>`, with its nav link removed. Unhide it and restore the nav link when KRA sends the real members list, and delete the sample rows in `members`.
 - **Documents section:** `<section id="documents" hidden>`. Unhide it when the real PDFs are available.
 - **Trustees block:** removed from Leadership. Add it back only with real names.
-- **Footer social icons:** only WhatsApp is shown. Add Facebook, Instagram and the others only when KRA gives real links.
+- **Footer icons:** WhatsApp, call, email and Google Maps are shown. Add Facebook, Instagram and the others only when KRA gives real links.
 
 ## Other notes
 
