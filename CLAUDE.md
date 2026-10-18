@@ -235,7 +235,7 @@ All confirmed by KRA, with a named photo for each person. Swamy Sajjana's photo 
 - Trustee and founding member names, and the names and posts of the six unnamed first-committee members.
 - Real members list (remove the `s:1` sample rows).
 - Phone/WhatsApp (8123074267) and email (koramangalarealtorsassociation@gmail.com) are now on the site. The Gmail address is temporary; switch to a domain email when KRA sets one up. The office address and registration number are confirmed and already on the site.
-- Social media links (footer `href="#"`).
+- Social media links (footer `href="#"`, except WhatsApp, which links to wa.me/918123074267).
 - Documents (PDFs): registration certificate, bye-laws, circulars.
 - Tournament results.
 - Upcoming event details.
