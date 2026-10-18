@@ -322,3 +322,5 @@ These are hidden so the live site shows only real information. Do not delete the
 - **Link preview:** Open Graph tags in `<head>` use `images/home-01.jpg` as the WhatsApp/Facebook preview image. The favicon is `images/kra-logo.png`.
 - **Contact:** the address has an "Open in Google Maps" link.
 - **President's message:** still draft text written for KRA. Replace it with KRA's own words when they send them.
+
+- **Contact phone:** shows only the number, as a tap-to-call link. The "Message on WhatsApp" text link was removed on request. WhatsApp is still reachable from the footer icon.
