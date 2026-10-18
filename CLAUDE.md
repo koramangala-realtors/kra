@@ -304,7 +304,7 @@ This is KRA's live public website. Never show internal notes on the page: no "to
 
 These follow KRA's own ballot papers and messages:
 
-- **Kaarthik**, not "Karthik". He is the current President, and was General Secretary in 2021 and 2024.
+- **Kaarthik Venkatappa** (full name), not "Karthik". He is the current President, and was General Secretary in 2021 and 2024.
 - **Swamy Sajjana**, not "Swamy Sajjan" (Kannada: ಸ್ವಾಮಿ ಸಜ್ಜನ).
 - **Nagaraj N G V** and **Preetham Gowda C L**, with spaces between initials.
 
