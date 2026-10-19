@@ -330,3 +330,11 @@ These are hidden so the live site shows only real information. Do not delete the
 - **`robots.txt` and `sitemap.xml`** sit in the repo root. Update `<lastmod>` in the sitemap after big content changes.
 - **Organization data:** a JSON-LD block in `<head>` holds the name, address, phone, email and logo for Google. Keep it in sync with the Contact section.
 - **Google Search Console:** verify the domain with a TXT record in GoDaddy, then submit the sitemap there.
+
+### Keywords and content (added 19 Oct 2026)
+
+- **Page title:** "Koramangala Realtors Association (R) | Real Estate Agents in Koramangala, Bengaluru". The meta and Open Graph descriptions mention agents, brokers, buying, selling and renting in all 8 blocks.
+- **"Real estate in Koramangala" section:** mentions 1st to 8th Block and includes a Kannada paragraph.
+- **FAQ section (`#faq`):** six questions in `<details>`, mirrored in a FAQPage JSON-LD block in `<head>`. If you edit a question or answer, edit both places.
+- **Gallery alt text:** includes the album name and "Koramangala Realtors Association". The lightbox shows the short caption from `data-cap`.
+- **Avoid keyword stuffing:** write naturally for people. Never add hidden text or long keyword lists.
